@@ -1,6 +1,6 @@
 # Hartford Neighborhood Data Platform
 
-This dataset powers the Hartford Neighborhood Data Platform. Data comes from the 2023 American Community Survey 5-year estimates. 
+This dataset powers the [Hartford Neighborhood Data Platform](https://www.ctdata.org/hartford-neighborhood-data-platform-prototype). Data comes from the 2023 American Community Survey 5-year estimates. 
 
 Census tract-level data was aggregated to Hartford neighborhoods. Census tracts were assigned to neighborhoods based on the neighborhood that the center of the tract was within. More information about the relationship between census tracts and Hartford neighborhoods can be found [here](https://github.com/CT-Data-Collaborative/hartford-crosswalks).
 
