@@ -4,6 +4,8 @@ This dataset powers the [Hartford Neighborhood Data Platform](https://www.ctdata
 
 Census tract-level data was aggregated to Hartford neighborhoods. Census tracts were assigned to neighborhoods based on the neighborhood that the center of the tract was within. More information about the relationship between census tracts and Hartford neighborhoods can be found [here](https://github.com/CT-Data-Collaborative/hartford-crosswalks).
 
+More information about each variable is available in the Data Dictionary.
+
 ### What are margins of error?
 
 Because the ACS is a survey that does not reach all residents, there is error associated with the data. According to the Census Bureau, margins of error measure the possble variation of an estimate around its true value. They allow data users to be certain that the estimate and the actual value differ by no more than the value of the margin of error.
